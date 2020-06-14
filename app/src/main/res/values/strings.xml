@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">DeviceConfigurationTest</string>
+  <string name="action_settings">OPTIONS</string>
+  <!-- Strings used for fragments for navigation -->
+  <string name="first_fragment_label">First Fragment</string>
+  <string name="second_fragment_label">Second Fragment</string>
+  <string name="next">Go Forth</string>
+  <string name="previous">Retract</string>
+
+  <string name="hello_first_fragment">PAGE 1</string>
+  <string name="hello_second_fragment">PAGE 2</string>
+  <string name="proceed">proceed</string>
+  <string name="go">go</string>
+</resources>
